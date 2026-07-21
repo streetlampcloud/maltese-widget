@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-electron/
+release/
+.npm-cache/
+.electron-cache/
+.user-data/
+.env
+.env.local
+*.log
+*.tsbuildinfo
+Thumbs.db
